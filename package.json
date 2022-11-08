@@ -1,0 +1,22 @@
+{
+  "name": "budgetingit",
+  "version": "1.0.0",
+  "description": "Budget your spending",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cdjrick/BudgetingIt.git"
+  },
+  "author": "Charlie Rick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cdjrick/BudgetingIt/issues"
+  },
+  "homepage": "https://github.com/Cdjrick/BudgetingIt#readme",
+  "dependencies": {
+    "calendar-base": "^2.0.0"
+  }
+}
